@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Page Object Model Project">
+		<classes>
+			<class name="pages_Testcases.BlazeSignup" /> 
+			<class name="pages_Testcases.Blazelogin" /> 
+			<class name="pages_Testcases.Homepage" /> 
+			<class name="pages_Testcases.verifylogo" /> 
+
+			
+		</classes>	
+	</test> 
+	
+</suite> <!-- Suite -->
